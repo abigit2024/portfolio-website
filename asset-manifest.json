@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abigit2024/portfolio-website.git/static/css/main.4c03d9ac.css",
+    "main.js": "/abigit2024/portfolio-website.git/static/js/main.38b8004e.js",
+    "static/js/453.42568bda.chunk.js": "/abigit2024/portfolio-website.git/static/js/453.42568bda.chunk.js",
+    "index.html": "/abigit2024/portfolio-website.git/index.html",
+    "main.4c03d9ac.css.map": "/abigit2024/portfolio-website.git/static/css/main.4c03d9ac.css.map",
+    "main.38b8004e.js.map": "/abigit2024/portfolio-website.git/static/js/main.38b8004e.js.map",
+    "453.42568bda.chunk.js.map": "/abigit2024/portfolio-website.git/static/js/453.42568bda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c03d9ac.css",
+    "static/js/main.38b8004e.js"
+  ]
+}

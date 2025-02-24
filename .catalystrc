@@ -1,0 +1,48 @@
+{
+  "defaults": {
+    "project": 2,
+    "env": 1
+  },
+  "actives": {
+    "project": 2,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "26003000000022001",
+      "name": "portfolio-website",
+      "domain": {
+        "id": "10096053055",
+        "name": "portfolio-website-860731688.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "860731688",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "id": "26003000000023001",
+      "name": "PORTFOLIO",
+      "domain": {
+        "id": "10096127729",
+        "name": "portfolio-860731688.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "860731688",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
